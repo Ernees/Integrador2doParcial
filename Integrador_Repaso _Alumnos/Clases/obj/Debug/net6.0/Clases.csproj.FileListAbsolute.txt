@@ -1,0 +1,24 @@
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\bin\Debug\net6.0\Clases.dll
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.dll
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Users\German PC\Desktop\UTN 2024\Integrador_Repaso\Clases\obj\Debug\net6.0\ref\Clases.dll
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\bin\Debug\net6.0\Clases.dll
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.sourcelink.json
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.dll
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Users\User\Documents\Programacion y Laboratorio 2\IntegradorProgramacionII\Integrador_Repaso _Alumnos\Integrador_Repaso _Alumnos\Clases\obj\Debug\net6.0\ref\Clases.dll

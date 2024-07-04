@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Clases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Clases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases/1.0.0": {
+      "type": "project",
+      "path": "../Clases/Clases.csproj",
+      "msbuildProject": "../Clases/Clases.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Clases >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Programacion y Laboratorio 2\\IntegradorProgramacionII\\Integrador_Repaso _Alumnos\\Integrador_Repaso _Alumnos\\Integrador_Repaso\\Integrador_Repaso.csproj",
+      "projectName": "Integrador_Repaso",
+      "projectPath": "C:\\Users\\User\\Documents\\Programacion y Laboratorio 2\\IntegradorProgramacionII\\Integrador_Repaso _Alumnos\\Integrador_Repaso _Alumnos\\Integrador_Repaso\\Integrador_Repaso.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Programacion y Laboratorio 2\\IntegradorProgramacionII\\Integrador_Repaso _Alumnos\\Integrador_Repaso _Alumnos\\Integrador_Repaso\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows7.0",
+          "projectReferences": {
+            "C:\\Users\\User\\Documents\\Programacion y Laboratorio 2\\IntegradorProgramacionII\\Integrador_Repaso _Alumnos\\Integrador_Repaso _Alumnos\\Clases\\Clases.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Programacion y Laboratorio 2\\IntegradorProgramacionII\\Integrador_Repaso _Alumnos\\Integrador_Repaso _Alumnos\\Clases\\Clases.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
